@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://ddadev:ddaDev_01@10.9.61.35/admin?authMechanism=SCRAM-SHA-256
